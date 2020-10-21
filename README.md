@@ -18,8 +18,8 @@ I'm a software engineer who is passionate about Machine Learnining, Data Science
 
 ## Statistics: 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ajinkyasakhare19&show_icons=true" width='25%'/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyasakhare19&layout=compact" width='25%'/>
+<img src="https://github-readme-stats.vercel.app/api?username=ajinkyasakhare19&show_icons=true" width='45%'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyasakhare19&layout=compact" width='45%'/>
  </p>
 
 ## Find me around the web 🌎: 

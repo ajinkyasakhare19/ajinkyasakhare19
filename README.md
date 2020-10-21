@@ -14,7 +14,7 @@ I'm a software engineer who is passionate about Machine Learnining, Data Science
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyasakhare19&show_icons=true" width='50%'/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyasakhare19&layout=compact" width='50%'/>
+# GIT statistics
+<img src="https://github-readme-stats.vercel.app/api?username=ajinkyasakhare19&show_icons=true" width='50%'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyasakhare19&layout=compact" width='50%'/>
 

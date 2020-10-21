@@ -10,11 +10,11 @@ I'm a software engineer who is passionate about Machine Learnining, Data Science
 
 <a href="https://www.linkedin.com/in/ajinkya-sakhare/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 
 <a href="https://www.instagram.com/ajinkyasakhare_/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
 **Languages and Tools:**  
 <code><img height="20" src="https://camo.githubusercontent.com/908b05cb18c99ba4eaf3e85b360eddc27aaa521d/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323836312f323836313535372e737667"></code>
